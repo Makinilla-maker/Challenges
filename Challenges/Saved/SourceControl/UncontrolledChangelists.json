@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github projects/Challenges/Challenges/Content/Corridor/Demonstration.umap",
+				"E:/Github projects/Challenges/Challenges/Content/Corridor/Maps/Demonstration.umap",
+				"E:/Github projects/Challenges/Challenges/Content/MyShit/BP/MyAwesomeTriggerActor.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/Corridor/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Github projects/Challenges/Challenges/Content/Corridor/Blueprints/SlidingDoor.uasset"
+			]
+		}
+	]
+}
