@@ -2092,3 +2092,40 @@ Make sure 'Lever_C' has been compiled for  Get Configuration
 [2023.03.08-12.04.47:250][828]LogSavePackage: Moving '../../../../../Github projects/Challenges/Challenges/Saved/Demonstration_Auto64DA1465F4CE238291AD5EA87A910CC91.tmp' to '../../../../../Github projects/Challenges/Challenges/Saved/Autosaves/Game/Corridor/Maps/Demonstration_Auto6.umap'
 [2023.03.08-12.04.47:284][828]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Corridor/Maps/Demonstration' took 1.045
 [2023.03.08-12.04.47:284][828]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.045
+[2023.03.08-12.15.54:691][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.03.08-12.15.56:253][831]LogSlate: Window 'Save Content' being destroyed
+[2023.03.08-12.15.56:269][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.08-12.15.56:403][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.08-12.15.57:420][831]LogSavePackage: Moving output files for package: /Game/Corridor/Maps/Demonstration
+[2023.03.08-12.15.57:421][831]LogSavePackage: Moving '../../../../../Github projects/Challenges/Challenges/Saved/DemonstrationB82B58B1403BC780B9CA1E900FF9BCAD.tmp' to '../../../../../Github projects/Challenges/Challenges/Content/Corridor/Maps/Demonstration.umap'
+[2023.03.08-12.15.57:450][831]LogFileHelpers: No new changes to save!
+[2023.03.08-12.15.57:451][831]LogFileHelpers: Saving map 'Demonstration' took 1.121
+[2023.03.08-12.15.57:460][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.19 sec (total: 2.87 sec)
+[2023.03.08-12.15.57:461][831]LogStall: Shutdown...
+[2023.03.08-12.15.57:565][831]LogStall: Shutdown complete.
+[2023.03.08-12.15.57:872][831]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-12.15.57:872][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-12.15.58:757][831]LogSlate: Window 'Example' being destroyed
+[2023.03.08-12.15.59:002][831]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.08-12.15.59:002][831]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-12.15.59:002][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-12.15.59:566][831]LogSlate: Window 'Challenges - Unreal Editor' being destroyed
+[2023.03.08-12.16.01:104][831]AssetCheck: New page: Asset Save: Demonstration
+[2023.03.08-12.16.01:104][831]LogContentValidation: Display: Validating /Script/Engine.World /Game/Corridor/Maps/Demonstration.Demonstration
+[2023.03.08-12.16.01:122][832]Cmd: QUIT_EDITOR
+[2023.03.08-12.16.01:123][832]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.03.08-12.16.01:152][832]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.03.08-12.16.01:154][832]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.03.08-12.16.01:155][832]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.03.08-12.16.01:531][832]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2023.03.08-12.16.01:533][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.08-12.16.01:574][832]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.03.08-12.16.01:621][832]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.03.08-12.16.03:107][832]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.03.08-12.16.03:107][832]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.03.08-12.16.03:107][832]LogAudio: Display: Audio Device unregistered from world 'Demonstration'.
+[2023.03.08-12.16.03:130][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.08-12.16.03:292][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.03.08-12.16.03:404][832]LogAudio: Display: Audio Device Manager Shutdown
+[2023.03.08-12.16.03:498][832]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.03.08-12.16.03:500][832]LogExit: Preparing to exit.
